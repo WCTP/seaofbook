@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<article class="large-card">
 
-  <div class="title">{{ page.title }}</div>
+<h1 class="page-header">{{ page.title }}</h1>
 
-  <div class="body">
+<article class="post-preview">
+
+  <div class="horizontal-body">
     {{ content }}
   </div>
+
+  {% include disqus.html %}
 </article>

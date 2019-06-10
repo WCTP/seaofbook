@@ -4,10 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Hello! Welcome to my portfolio website! Here you’ll find my resume, coding projects, writing pieces, and my aspirations. I encourage you to explore the work I have done and learn who I really am. If you want to know a little bit more about who I am, keep reading!
+# Who is the author?
 
-![Walter sitting in captains chair.](/images/Bio-Card.JPG "Star Trek Captain's Chair")
+Gale Proulx, that's who! I'm a senior at Champlain College majoring in Data Analytics. Unfortunately, school doesn't give me nearly as many opportunities as I want to creatively write, so this is my outlet. (What? I know I picked the wrong major...)
 
-First, I am a hardcore *Star Trek* fan. I’ve seen almost all episodes from every series and almost every movie. Don’t believe me? Here is a photo of me sitting in the captain’s seat at Trekonderoga. I’m also a fan of *Avatar: The Last Air Bender*, *Legend of Korra*, and even *Xena: Warrior Princess*. My go to music preferences are musicals and acapella. If I’m not jamming out to *Hamilton* or *Dear Evan Hansen*, I’m most certainly listening to the Nor’easters or Pentatonix.
-Besides movies and musicals, I’m also a gamer (hence being Head Coach of the Varsity Overwatch team at Champlain College Esports) and an avid reader. Although I really do enjoy the field of Data Analytics, I have a secret hope that one day I will be a world-famous writer.
-If you want to know more feel free to drop me an email at walterproulx@gmail.com!
+Onwards to the next question!
+
+# What is this website?
+
+As mentioned before, you will be find creative work in various genres as well as pieces still being worked on, such as my book Unintentional Calamity.
+
+# Can I publish your work elsewhere?
+
+Ask first! I'm not opposed to the idea, but you need my explicit permission. Feel free to email me at galeproulx@gmail.com with any questions. I promise I won't bite (hard)!
+
+# Is there any space for other writers?
+
+Yes! I wouldn't mind publishing other people's work on this website. You would still get credit and have full rights to your piece. In other words, if you wanted to modify or remove your piece, you could! Collaboration is a beautiful thing, and there is no way I'm getting in the way of a good piece.
